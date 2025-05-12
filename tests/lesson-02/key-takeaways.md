@@ -48,7 +48,7 @@
 
 - Workflow đơn giản:
 
-![image.png](https://prnt.sc/L_ulBFK8khza)  // E không gán ảnh được :<<<
+![image.png](image.png)  
 
     - init: chỉ cần khởi tạo lần đầu
     - config: thay đổi gì mới cần
