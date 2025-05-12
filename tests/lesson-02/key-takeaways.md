@@ -55,7 +55,7 @@
 
 Global config: là những cái đã mặc định sẵn ở global
 
-3. Javascript
+# 3. Javascript
 
 - run-time: khi chạy thì
 - time
