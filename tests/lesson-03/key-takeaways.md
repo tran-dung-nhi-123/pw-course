@@ -170,6 +170,13 @@ VD: git reset HEAD~2 ⇒ commit 3, commit 2 về working directory
         
         ![image.png](21.png)
     - **Hàm push**: Để thêm phần tử vào mảng, ta dùng hàm push
+        VD:
+        const arr = [1,2];
+        arr.push(3);
+        console.log(arr);
+        
+        // Kết quả in ra
+        [1, 2, 3]
         
 
 - Function: hàm, là đoạn code đc đặt tên, tái sd
@@ -193,12 +200,7 @@ VD: git reset HEAD~2 ⇒ commit 3, commit 2 về working directory
         
 - Vòng lặp mảng bắt đầu từ 0 nhé:
 
-- Nếu muốn thay mặc định của phần copy path: Vào setting > gõ keyword "path separator" > thay như ảnh dưới
+### Lưu ý:
+Nếu muốn thay mặc định của phần copy path: Vào setting > gõ keyword "path separator" > thay như ảnh dưới
 ![image.png](0.png) 
-    VD:
-    const arr = [1,2];
-    arr.push(3);
-    console.log(arr);
     
-    // Kết quả in ra
-    [1, 2, 3]
