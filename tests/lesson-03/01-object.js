@@ -5,11 +5,11 @@ let car = {
     year: 2021
 };
 
-console.log('B1:', car);
+console.log('B1:', car.year);
 
 // 2.
 let person = {
-    name: 'Nhi', 
+    name: 'Nhi',
     address: {
         street: 'A',
         city: 'B',
@@ -57,8 +57,8 @@ delete employee.age;
 console.log('B6:', employee);
 
 // 7.
-const school = { 
-    classA: ["An","Bình","Châu"], 
-    classB: ["Đào","Hương","Giang"]
+const school = {
+    classA: ["An", "Bình", "Châu"],
+    classB: ["Đào", "Hương", "Giang"]
 };
 

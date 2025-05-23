@@ -5,7 +5,7 @@
 
 # 2. Git
 - Dùng git để quản lý các phiên bản và nhiều người làm với nhau
-- Ưu điểm: dùng git vì khá dễ dùng, bản chung, xử lý nhanh, free, phổ biến nhiều công ty
+- Ưu điểm: dùng git vì khá dễ dùng, branching, xử lý nhanh, free, phổ biến nhiều công ty
 - SS git và github:
     -  Git: là phần mềm trên máy tính, commandline tool, giúp quản lý phiên bản đưa file vào git repo…
     - GitHub: có công cụ, có giao diện, là nơi để up git repo
