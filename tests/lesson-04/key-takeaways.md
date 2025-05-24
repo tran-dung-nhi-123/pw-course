@@ -116,6 +116,9 @@
         - trim( ) : loại bỏ space ( khoản trống) đầu cuối string
             
             vd: console.log(str.trim()); 
+            - Để xoá khoảng trắng ở đầu sử dụng trimStart() 
+            - Để xoá khoảng trắng ở cuối sử dụng trimEnd() 
+
             
         - toLowerCase( ) : chuyển ký tự sang viết thường
             
